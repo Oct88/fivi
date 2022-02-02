@@ -35,7 +35,7 @@ export default function Filip() {
             </div>
             <div className="div5">
                 <Image src="/leu4.jpg" width={300} height={240} />
-                <p>DEȘI ESTE UN ANIMAL FIOROS, SUNT MULTE DESENE AMUZANTE CU LEUL, PRECUM ACEASTA.</p>
+                <p>DEȘI ESTE UN ANIMAL FIOROS, SUNT MULTE DESENE AMUZANTE CU LEUL, PRECUM ACESTA.</p>
             </div>
         </div>
     )
