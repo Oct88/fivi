@@ -37,6 +37,16 @@ export default function Victor() {
                 <Image src="/leu4.jpg" width={300} height={240} />
                 <p>DEȘI ESTE UN ANIMAL FIOROS, SUNT MULTE DESENE AMUZANTE CU LEUL, PRECUM ACESTA.</p>
             </div>
+            <div>
+                <p>MELODIA MEA PREFERATĂ ESTE:</p>
+                <iframe width="560" height="315" 
+                    src="https://www.youtube.com/embed/SGuS97PnMUk" 
+                    title="YouTube video player" 
+                    frameBorder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowFullScreen>
+                </iframe>
+            </div>
         </div>
     )
 }
