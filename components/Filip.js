@@ -42,9 +42,9 @@ export default function Filip() {
                 <iframe width="560" height="315" 
                     src="https://www.youtube.com/embed/SGuS97PnMUk" 
                     title="YouTube video player" 
-                    frameborder="0" 
+                    frameBorder="0" 
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                    allowfullscreen>
+                    allowFullScreen>
                 </iframe>
             </div>
         </div>
