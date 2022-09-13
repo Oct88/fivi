@@ -38,6 +38,7 @@ export default function Filip() {
                 <p>DEȘI ESTE UN ANIMAL FIOROS, SUNT MULTE DESENE AMUZANTE CU LEUL, PRECUM ACESTA.</p>
             </div>
             <div>
+                <p>MELODIA MEA PREFERATĂ ESTE:</p>
                 <iframe width="560" height="315" 
                     src="https://www.youtube.com/embed/SGuS97PnMUk" 
                     title="YouTube video player" 
